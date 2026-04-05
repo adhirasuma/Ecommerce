@@ -18,10 +18,10 @@ The project includes:
 * React
 * JavaScript
 * CSS
+* Html
 
 ### Backend
 
-* Django
 * Django REST Framework (planned)
 
 ---
